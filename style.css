@@ -1,0 +1,78 @@
+h1 { 
+    text-align: center; 
+    color: brown;
+    font-family: copperplate,didot;
+    font-size: .8in;
+
+}
+h2 {
+    text-align: center;
+    font-size:.5in;
+    font-family: cursive;
+
+}
+.video {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+.mainimage {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    padding-top: 1in;
+    padding-bottom: .25in;
+}
+.cap {
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    padding:0in
+}
+.des {
+    font-size: 24px;
+    margin-left: 1in;
+    margin-right: 1in;
+    background-color: burlywood;
+    padding: .25in;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
+.cover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: ridge;
+    border-width: .25in;
+    border-color: chocolate;
+}
+ul {
+    display: block;
+    text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+}
+table.center, th, td {
+    border: 1px solid brown;
+    text-align: center;
+
+  }
+  table, th {
+      font-size: 24px;
+      font-style: italic;
+
+  }
+  table, td {
+      font-size: 20px;
+      font-style: normal;
+  }
+  table {
+      width: 6in;
+      margin-left: auto;
+      margin-right: auto;
+  }
+ .link {
+     text-align: center;
+     font-size: 24px;
+ }
